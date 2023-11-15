@@ -1,0 +1,11 @@
+Model Information:
+* title:	Skibidi Toilet
+* source:	https://sketchfab.com/3d-models/skibidi-toilet-f2857d727c934684a3ad095bca0a3510
+* author:	Indie game developpers working on games and mods. (https://sketchfab.com/humanpower)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Skibidi Toilet" (https://sketchfab.com/3d-models/skibidi-toilet-f2857d727c934684a3ad095bca0a3510) by Indie game developpers working on games and mods. (https://sketchfab.com/humanpower) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
